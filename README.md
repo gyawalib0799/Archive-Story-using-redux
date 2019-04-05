@@ -9,6 +9,7 @@ npm start
 
 
 Installing Bootstrap and Reactstrap
+
 npm install --save bootstrap
 
 npm install --save reactstrap react react-dom
